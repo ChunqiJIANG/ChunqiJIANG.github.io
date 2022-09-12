@@ -11,19 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Suzhou University of Science and Technology (Biological Technology), China, 2011-2015
-* M.S. in Shanghai Ocean University (Food Science and Technology), China, 2015-2018
 * Ph.D in Hokkaido University (Marine Microbiology), Japan, 2018-2022 
+* M.S. in Shanghai Ocean University (Food Science and Technology), China, 2015-2018
+* B.S. in Suzhou University of Science and Technology (Biological Technology), China, 2011-2015
+
 
 Work experience
 ======
-* 2018.10 - 2022.06: Teaching/Research Assistant
-  * Faculty of Fisheries Sciences, Hokkaido University
-  * Supervisor: Professor Sawabe Tomoo
-
 * 2022.07 - 2022.10: Accademic Researcher
   * Graduate School of Fisheries Sciences, Hokkaido University
   * Supervisor: Professor Kasai Hisae
+
+* 2018.10 - 2022.06: Teaching/Research Assistant
+  * Faculty of Fisheries Sciences, Hokkaido University
+  * Supervisor: Professor Sawabe Tomoo
   
 Skills
 ======
