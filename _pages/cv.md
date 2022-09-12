@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Suzhou University of Science and Technology (Biological Technology), China, 2011-2015
+* M.S. in Shanghai Ocean University (Food Science and Technology), China, 2015-2018
+* Ph.D in Hokkaido University (Marine Microbiology), 2018-2022 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018.10 - 2022.06: Teaching/Research Assistant
+  * Faculty of Fisheries Sciences, Hokkaido University
+  * Supervisor: Professor Sawabe Tomoo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.07 - 2022.10: Accademic Researcher
+  * Graduate School of Fisheries Sciences, Hokkaido University
+  * Supervisor: Professor Kasai Hisae
   
 Skills
 ======
@@ -54,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
