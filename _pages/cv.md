@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Suzhou University of Science and Technology (Biological Technology), China, 2011-2015
 * M.S. in Shanghai Ocean University (Food Science and Technology), China, 2015-2018
-* Ph.D in Hokkaido University (Marine Microbiology), 2018-2022 
+* Ph.D in Hokkaido University (Marine Microbiology), Japan, 2018-2022 
 
 Work experience
 ======
