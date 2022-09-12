@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there!
-This is Dr. Chunqi JIANG's home on the web!
+Hi, there! /This is Dr. Chunqi JIANG's home on the web!
 
 ...
 
