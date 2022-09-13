@@ -87,9 +87,10 @@ author:
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=TJ8ipQQAAAAJ&hl=en"
-  email            :
   researchgate     : "https://www.researchgate.net/profile/Chunqi-Jiang-3"
-  uri              :
+  orcid            : "https://orcid.org/0000-0002-4015-9046"
+  uri              : "https://chunqijiang.github.io/"
+  email            : "jiang[at]fish.hokudai.ac.jp"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/chunqi-jiang-72b924223/"
-  orcid            : "https://orcid.org/0000-0002-4015-9046"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
