@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Hi, there! 
-This is Dr. Chunqi JIANG's home on the web!
+
+# This is Dr. Chunqi JIANG's home on the web!
 
 ## Education
 * 2018.10 - 2022.06 Hokkaido University (Japan), Ph.D
@@ -35,12 +36,11 @@ This is Dr. Chunqi JIANG's home on the web!
 
 
 ## Scholarships
-2017 "Overseas Study Funding", *Shanghai Ocean University*, China
-2016 "First-Class Academic Scholarship", *Shanghai Ocean University*, China
-2014 "National Scholarship", *Ministry of Education of the People's Republic of China*, China
-2013 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
-2012 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
+* 2017 "Overseas Study Funding", *Shanghai Ocean University*, China
+* 2016 "First-Class Academic Scholarship", *Shanghai Ocean University*, China
+* 2014 "National Scholarship", *Ministry of Education of the People's Republic of China*, China
+* 2013 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
+* 2012 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
 
-For more info
-------
-### <-- More info about me, check more links about me on the sidebar!
+## For more info
+#### <-- For more information about me, please check my diverse links on the sidebar!
