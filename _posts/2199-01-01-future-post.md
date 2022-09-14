@@ -10,6 +10,8 @@ tags:
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 
+<img src='/images/profile.png' width="20%">
+
 Headings are cool
 ======
 
