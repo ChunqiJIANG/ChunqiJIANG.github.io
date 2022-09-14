@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-  You can also find my articles on 
+  You can also find his articles on 
   
-  - <a href="https://scholar.google.de/citations?user=TJ8ipQQAAAAJ&hl=en">My Google Scholar profile</a>
-  - [My ResearchGate](https://www.researchgate.net/profile/Chunqi-Jiang-3)
+  - <a href="https://scholar.google.de/citations?user=TJ8ipQQAAAAJ&hl=en">Google Scholar profile</a>
+  - [ResearchGate](https://www.researchgate.net/profile/Chunqi-Jiang-3)
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
