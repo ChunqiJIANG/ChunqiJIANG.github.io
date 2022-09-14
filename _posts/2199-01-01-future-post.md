@@ -20,3 +20,6 @@ You can have many headings
 
 Aren't headings cool?
 ------
+
+  - <a href="https://scholar.google.de/citations?user=TJ8ipQQAAAAJ&hl=en">My Google Scholar profile</a>
+  - [My ResearchGate](https://www.researchgate.net/profile/Chunqi-Jiang-3)
