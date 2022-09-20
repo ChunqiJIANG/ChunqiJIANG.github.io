@@ -25,7 +25,7 @@ Work experience
   * Supervisor: Associate Professor Kasai Hisae
 
 * 2018.10 - 2022.06: Teaching/Research Assistant
-  * Faculty of Fisheries Sciences, Hokkaido University
+  * Graduate School of Fisheries Sciences / Faculty of Fisheries Sciences, Hokkaido University
   * Supervisor: Professor Sawabe Tomoo
 
 Overseas experience
