@@ -43,7 +43,6 @@ Thank you for visiting here.
 * 2013 "Provincial-Level Merit Student", *Jiangsu Education Department*, China
 * 2012 "Merit Student", *Suzhou University of Science and Technology*, China
 
-
 ## Scholarships
 * 2017 "Overseas Study Funding", *Shanghai Ocean University*, China
 * 2016 "First-Class Academic Scholarship", *Shanghai Ocean University*, China
