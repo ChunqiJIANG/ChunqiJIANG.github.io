@@ -13,5 +13,5 @@ author_profile: true
   - [ResearchGate](https://www.researchgate.net/profile/Chunqi-Jiang-3)
 
 {% for post in site.publications reversed %}
-
+  {% include archive-single.html %}
 {% endfor %}
