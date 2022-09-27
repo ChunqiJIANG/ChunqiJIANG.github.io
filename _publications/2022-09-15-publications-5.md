@@ -8,6 +8,5 @@ paperurl: 'https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16
 citation: 'Jiang C, Kasai H, Mino S, et al (2022) The pan‐genome of Splendidus clade species in the family Vibrionaceae : Insights into evolution, adaptation, and pathogenicity. Environ Microbiol X:1–20. https://doi.org/10.1111/1462-2920.16209'
 ---
 
-<a href='https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16209'>Download paper here</a>
+<a href='https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16209'>Find paper here</a>
 
-Recommended citation: Jiang C, Kasai H, Mino S, et al (2022) The pan‐genome of Splendidus clade species in the family Vibrionaceae : Insights into evolution, adaptation, and pathogenicity. Environ Microbiol X:1–20. https://doi.org/10.1111/1462-2920.16209
