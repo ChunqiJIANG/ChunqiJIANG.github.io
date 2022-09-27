@@ -8,6 +8,4 @@ paperurl: 'https://link.springer.com/article/10.1007/s00284-021-02725-0'
 citation: 'Jiang C, Tanaka M, Nishikawa S, et al (2022) Vibrio Clade 3.0: New Vibrionaceae evolutionary units using genome-based approach. Curr Microbiol 79:1-15. https://doi.org/10.1007/s00284-021-02725-0'
 ---
 
-<a href='https://link.springer.com/article/10.1007/s00284-021-02725-0'>Download paper here</a>
-
-Recommended citation: Jiang C, Tanaka M, Nishikawa S, et al (2022) Vibrio Clade 3.0: New Vibrionaceae evolutionary units using genome-based approach. Curr Microbiol 79:1-15. https://doi.org/10.1007/s00284-021-02725-0
+<a href='https://link.springer.com/article/10.1007/s00284-021-02725-0'>Find paper here</a>
