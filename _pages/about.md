@@ -50,4 +50,4 @@ Thank you for visiting here.
 * 2012 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
 
 ## For more info
-#### <<--- For more information about him, please check the diverse links on the sidebar!
+### <<--- For more information about him, please check the diverse links on the sidebar!
