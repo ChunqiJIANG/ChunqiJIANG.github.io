@@ -14,7 +14,7 @@ Hi, there!
 
 Thank you for visiting here. 
 
-**Dr. Chunqi JIANG (中：蒋春啟 日：蒋春啓)** has been focusing on the research about marine microbiology, particularly the family *Vibrionaceae*, using genomic methods. He is experienced in next-generation sequencing (such as Nanopore sequencing technology), *de novo assembly*, and genomic analyses. Please feel free to contact him if any queries (sidebar). 
+**Dr. Chunqi JIANG (中：蒋春啟 日：蒋春啓)** has been focusing on the research about marine microbiology, particularly the family *Vibrionaceae*, using genomic methods. He is experienced in next-generation sequencing (such as Nanopore sequencing technology), *de novo assembly*, and genomic analyses. Please feel free to contact him if any queries (中文/ENGLISH/日本語). 
 
 ## Affiliations
 * 2022.07 - 2022.10: **Accademic Researcher**
@@ -24,9 +24,10 @@ Thank you for visiting here.
   * Graduate School of Fisheries Sciences / Faculty of Fisheries Sciences, Hokkaido University
   
 ## Education
-* 2018.10 - 2022.06 *Hokkaido University (Japan)*, Ph.D
-* 2015.09 - 2018.06 *Shanghai Ocean University (China)*, M.S.
-* 2011.09 - 2015.06 *Suzhou University of Science and Technology (China)*, B.S.
+* 2018.10 - 2022.06  **Ph.D**  *Hokkaido University (Japan)*
+  * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome), Prof. Tomoo Sawabe　
+* 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (China)*
+* 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
 
 ## Oversea experience
 * 2019.06 - 2019.07 International Summer Course, *National University of Singapore*, Singapore
