@@ -10,7 +10,7 @@ locale                   : "Japan"
 title                    : "Dr. Chunqi Jiang / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Dr. Chunqi Jiang"
-description              : &description "Postdoctoral Researcher at AORI Utokyo"
+description              : &description "Postdoctoral Researcher at AORI U-Tokyo"
 url                      : https://ChunqiJIANG.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChunqiJIANG.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Chunqi Jiang"
   avatar           : "CJ_profile2.png"
-  bio              : "Postdoctoral Researcher at AORI Utokyo"
+  bio              : "Postdoctoral Researcher at AORI U-Tokyo"
   location         : "Chiba, Japan"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
