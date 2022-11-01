@@ -21,7 +21,7 @@ Thank you for visiting here.
 ## Affiliations
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
   * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
-  * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/)(AORI Utokyo)
+  * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI U-Tokyo)
 
 * 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
   * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
