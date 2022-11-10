@@ -20,6 +20,10 @@ Education
 
 Work experience
 ======
+* 2022.11 - now : Postdoctoral Researcher
+  * Atmosphere and Ocean Research Institute, The University of Tokyo
+  * Supervisor: Associate Professor Yoshizawa Susumu
+
 * 2022.07 - 2022.10: Accademic Researcher
   * Graduate School of Fisheries Sciences, Hokkaido University
   * Supervisor: Associate Professor Kasai Hisae
