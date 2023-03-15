@@ -14,7 +14,8 @@ Hi, there!
 
 Thank you for visiting here. 
 
-*(Recent update on 2023/03/15)*
+
+<p align="right"> (Recent update on 2023/03/15) </p>
 
 **Dr. Chunqi JIANG (中：蒋春啟 日：蒋春啓)** has been focusing on the research about marine microbiology, particularly the family *Vibrionaceae*, using genomic methods. He is experienced in next-generation sequencing (such as Nanopore sequencing technology), *de novo assembly*, and genomic analyses. From now on, he has started to explore the interesting dynamics/functions and new knowledge of marine microorganisms using **BIG DATA**. 
 
