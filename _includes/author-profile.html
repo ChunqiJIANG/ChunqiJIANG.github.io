@@ -36,7 +36,10 @@
       {% endif %}
       ----    
       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><a href="{{ author.researchmap }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+      {% endif %}  
+      {% if author.researchmap %}
+        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchmap" aria-hidden="true"></i> ResearchMap</a></li>
       {% endif %}  
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
