@@ -58,9 +58,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 * 2012 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
 
 ## Contact
-〒 277-8564
-
-千葉県柏市柏の葉5-1-5
+〒 277-8564 千葉県柏市柏の葉5-1-5
 
 東京大学 大気海洋研究所
 
