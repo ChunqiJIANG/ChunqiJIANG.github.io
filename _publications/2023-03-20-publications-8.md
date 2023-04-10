@@ -8,3 +8,6 @@ paperurl: 'https://link.springer.com/article/10.1007/s00284-023-03250-y'
 
 ---
 
+<img src="images/pub-screencut/pub08.png"  align=center />
+
+<a href='https://link.springer.com/article/10.1007/s00284-023-03250-y'>Find full paper here</a>
