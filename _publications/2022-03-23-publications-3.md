@@ -15,7 +15,7 @@ https://doi.org/10.3389/fmars.2022.844983'
 
 ---
 
-<a href='https://www.frontiersin.org/articles/10.3389/fmars.2022.844983/full'>Find full paper here</a>
+<a href='https://www.frontiersin.org/articles/10.3389/fmars.2022.844983/full'>Find paper here</a>
 
 <img src="/images/pub-screencut/pub03.png"  align=center />
 
