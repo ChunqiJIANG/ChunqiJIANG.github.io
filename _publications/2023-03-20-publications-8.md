@@ -10,5 +10,3 @@ citation: 'Inohara, Y., Chunqi, J., Mino, S. et al.
             https://doi.org/10.1007/s00284-023-03250-y'
 
 ---
-
-<a href='https://link.springer.com/article/10.1007/s00284-023-03250-y'>Find paper here</a>
