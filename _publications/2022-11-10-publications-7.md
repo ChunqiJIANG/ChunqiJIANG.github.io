@@ -11,4 +11,4 @@ citation: 'Kuroyanagi Y, Tsuchiya J, Jiang C, Mino S, Kasai H, Motooka D, Iida T
 
 <a href='https://www.frontiersin.org/articles/10.3389/fmars.2022.1037594/full'>Find paper here</a>
 
-<img src="/images/pub-screencut/pun07.png"  align=center />
+<img src="/images/pub-screencut/pub07.png"  align=center />
