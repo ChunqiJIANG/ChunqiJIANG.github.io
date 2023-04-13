@@ -79,10 +79,10 @@ social:
   
 # Analytics new
  analytics:
-  provider               :  "google-gtag"
+  provider               : "google-gtag"
   google:
-   measurement_id          : G-9Z2QXRBEWB
-   anonymize_ip         : # true, false (default)
+   measurement_id        : "G-9Z2QXRBEWB"
+   anonymize_ip          : # true, false (default)
 
 
 
