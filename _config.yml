@@ -77,13 +77,8 @@ social:
  # google:
  #   tracking_id          :
   
-# Analytics new
- analytics:
-  provider               : "google-gtag"
-  google:
-   measurement_id        : "G-9Z2QXRBEWB"
-   anonymize_ip          : # true, false (default)
-
+# Google Analytics 4 new
+google_analytics: "G-9Z2QXRBEWB"
 
 
 # Site Author
