@@ -7,9 +7,6 @@ tags:
 ---
 
 
-Cruise KS-23-7
----
-
 He was on a cooperative ocean research cruise **(KS-23-7)** from 2023/05/01 to 2023/05/12 around the *Southern Hokkaido (Sanriku) Offshore*.
 
 It is expected to obtain the seawater samples to elucidate the distribution of environmental DNA and classify the ecological composition and function of microbial communities in this area.
