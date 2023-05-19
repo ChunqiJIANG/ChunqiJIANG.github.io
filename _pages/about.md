@@ -37,6 +37,9 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 * 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (China)*
 * 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
 
+## Cruise
+* 2023.05.01 - 2023.05.12  **KS-23-7**  *新青丸 (Shinsei-maru)*
+
 ## Oversea experience
 * 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
 * 2017.04 - 2018.03 **International Exchange Program**, *Hokkaido University*, Hokkaido, Japan
