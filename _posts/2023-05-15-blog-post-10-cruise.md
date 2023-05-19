@@ -17,7 +17,7 @@ It is expected to obtain the seawater samples to elucidate the distribution of e
 <img src='/images/KS-23-7/P5-all.png' />
 
 
-Snaps
+Snapshots
 ---
 <p align="center">
 <img src='/images/KS-23-7/P4-working.png' width="50%" /> 
