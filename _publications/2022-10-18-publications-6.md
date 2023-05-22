@@ -16,5 +16,6 @@ citation: 'Matsumura, Y., Sato, K., Jiang, C. et al.
            https://doi.org/10.1007/s00284-022-03065-3'
 ---
 
+<!-- Text -->
 
 <img src="/images/pub-screencut/pub06.png"  align=center />
