@@ -17,5 +17,6 @@ Curr Microbiol 79:1-15. https://doi.org/10.1007/s00284-021-02725-0'
 
 ---
 
+<!-- Text -->
 
 <img src="/images/pub-screencut/pub02.png"  align=center />
