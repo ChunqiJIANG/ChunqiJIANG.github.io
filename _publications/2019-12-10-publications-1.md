@@ -15,6 +15,8 @@ Syst Appl Microbiol 43:126048. https://doi.org/10.1016/j.syapm.2019.126048'
 
 ---
 
+<!--
 <a href='https://www.sciencedirect.com/science/article/pii/S0723202019303431?via%3Dihub'>Find paper here</a>
+-->
 
 <img src="/images/pub-screencut/pub01.png"  align=center />
