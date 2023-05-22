@@ -16,6 +16,8 @@ https://doi.org/10.1371/journal.pone.0271174'
 
 ---
 
+<!-- Text -->
+
 <img src="/images/pub-screencut/pub04.png"  align=center />
 
 Abstract
