@@ -23,6 +23,3 @@ Syst Appl Microbiol 43:126048. https://doi.org/10.1016/j.syapm.2019.126048'
 
 <img src="/images/pub-screencut/pub01.png"  align=center />
 
-{% if post.paperurl %}
-<p>Find paper <a href=" {{ post.paperurl }} "><u>here</u></a></p> 
-{% endif %}
