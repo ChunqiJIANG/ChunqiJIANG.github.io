@@ -14,4 +14,6 @@ citation: 'Inohara, Y., Chunqi, J., Mino, S. et al. A First Marine Vibrio Biocat
             https://doi.org/10.1007/s00284-023-03250-y'
 ---
 
+<!-- Text -->
+
 <img src="/images/pub-screencut/pub08.png"  align=center />
