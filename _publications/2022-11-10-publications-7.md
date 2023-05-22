@@ -17,4 +17,6 @@ citation: 'Kuroyanagi Y, Tsuchiya J, Jiang C, Mino S, Kasai H, Motooka D, Iida T
 
 ---
 
+<!-- Text -->
+
 <img src="/images/pub-screencut/pub07.png"  align=center />
