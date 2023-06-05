@@ -1,5 +1,5 @@
 ---
-title: "Taxonomic revision of the genus Amphritea supported by genomic and in silico chemotaxonomic analyses, and the proposal of Aliamphritea gen. nov."
+title: "Genome taxonomy of the genus *Thalassotalea* and proposal of *Thalassotalea hakodatensis* sp.nov. isolated from sea cucumber larvae"
 collection: publications
 permalink: /publication/2023-06-02-publications-9
 date: 2023-06-02
