@@ -1,12 +1,12 @@
 ---
-title: "Genome taxonomy of the genus *Thalassotalea* and proposal of *Thalassotalea hakodatensis* sp.nov. isolated from sea cucumber larvae"
+title: "Genome taxonomy of the genus *Thalassotalea* and proposal of *Thalassotalea hakodatensis* sp. nov. isolated from sea cucumber larvae"
 collection: publications
 permalink: /publication/2023-06-02-publications-9
 date: 2023-06-02
 venue: 'PLoS One'
 paperurl: https://doi.org/10.1371/journal.pone.0286693
 citation: 'Yamano R, Yu J, Haditomo AHC, Jiang C, Mino S, Romalde JL, et al. (2023) 
-Genome taxonomy of the genus *Thalassotalea* and proposal of *Thalassotalea hakodatensis* sp.nov. isolated from sea cucumber larvae. PLoS ONE 18(6): e0286693. 
+Genome taxonomy of the genus *Thalassotalea* and proposal of *Thalassotalea hakodatensis* sp. nov. isolated from sea cucumber larvae. PLoS ONE 18(6): e0286693. 
 https://doi.org/10.1371/journal.pone.0286693'
 
 ---
