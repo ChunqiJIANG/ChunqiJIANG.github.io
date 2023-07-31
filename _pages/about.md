@@ -16,11 +16,11 @@ Thank you for visiting here.
 
 <p align="right"> (Recent update on 2023/05/19) </p>
 
-**Dr. Chunqi JIANG (中：蒋春啟 日：蒋春啓)** has been focusing on the research about marine microbiology, particularly the family *Vibrionaceae*, using genomic methods. He is experienced in next-generation sequencing (such as Nanopore sequencing technology), *de novo assembly*, and genomic analyses. From now on, he has started to explore the interesting dynamics/functions and new knowledge of marine microorganisms using **BIG DATA (Metagenomics)**. 
+**Dr. Chunqi JIANG** has been focusing on research about marine microbiology, particularly the family *Vibrionaceae*, using genomic methods. He is experienced in next-generation sequencing (such as Nanopore sequencing technology), *de novo assembly*, and genomic analyses. From now on, he has started to explore the interesting dynamics/functions and new knowledge of marine microorganisms using **BIG DATA (Metagenomics)**. 
 
 Please feel free to contact him if any queries (中文/ENGLISH/日本語). 
 
-#### Keywords
+### Keywords
 - microbiology
 - taxonomy
 - genomics
@@ -36,17 +36,17 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 * 2018.10 - 2022.06: **Teaching & Research Assistant**
   * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
-  
+
+## Ocean Cruise
+* 2023.05.01 - 2023.05.12  **KS-23-7**  *新青丸 (Shinsei-maru)*
+
 ## Education
 * 2018.10 - 2022.06  **Ph.D**  *Hokkaido University (Japan)*
   * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome), Prof. Tomoo Sawabe　
 * 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (China)*
 * 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
 
-## Ocean Cruise
-* 2023.05.01 - 2023.05.12  **KS-23-7**  *新青丸 (Shinsei-maru)*
-
-## Oversea experience
+## Overseas experience
 * 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
 * 2017.04 - 2018.03 **International Exchange Program**, *Hokkaido University*, Hokkaido, Japan
 * 2016.06 – 2016.07 **International Summer Program**, *California State Polytechnic University*, Pomona, USA
