@@ -29,7 +29,7 @@ Education
 * 2011.09 - 2015.06 *Suzhou University of Science and Technology (China)*, B.S.
 
 
-Work experience
+Working experience
 ======
 * 2022.11 - now : Postdoctoral Researcher
   * Atmosphere and Ocean Research Institute, The University of Tokyo
@@ -72,17 +72,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Teaching Assistant/Teaching Fellow
+  * "Microbiology Experiments" - Faculty of Fisheries Sciences, Hokkaido University 
+  * "Bioinformatics for Marine Life Science" - Graduate School of Fisheries Sciences, Hokkaido University 
 
 <!--
 <iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
