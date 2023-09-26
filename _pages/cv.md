@@ -11,6 +11,17 @@ redirect_from:
 
 ***
 
+Skills
+======
+* Microbiology experiments
+* Next generation sequencing
+  * Illumina
+  * Nanopore
+* Bioinformatics
+  * Data control
+  * Genome assembly
+  * Genome analysis
+
 Education
 ======
 * 2018.10 - 2022.06 *Hokkaido University (Japan)*, Ph.D
@@ -54,14 +65,6 @@ Scholarships
 * 2014 "National Scholarship", *Ministry of Education of the People's Republic of China*, China
 * 2013 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
 * 2012 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
-
-Skills
-======
-* Microbiology
-* Next generation sequencing
-  * Illumina
-  * Nanopore
-* Bioinformatics
 
 Publications
 ======
