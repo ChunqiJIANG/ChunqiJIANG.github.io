@@ -80,7 +80,7 @@ Conferences
   
 Teaching experience
 ======
-Teaching Assistant/Teaching Fellow
+* Teaching Assistant/Teaching Fellow
   * "Microbiology Experiments" - Faculty of Fisheries Sciences, Hokkaido University 
   * "Bioinformatics for Marine Life Science" - Graduate School of Fisheries Sciences, Hokkaido University 
 
