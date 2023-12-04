@@ -23,19 +23,6 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 ### Keywords
 ***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
 
-## Latest News
-{% for post in site.posts limit:5 %}
-    {% include archive-single-talk.html %}
-{% endfor %}
-
-<p align="right">
-  <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
-</p>
-
-
-## Research
-
-
 ## Affiliations
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
   * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
@@ -46,6 +33,40 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 * 2018.10 - 2022.06: **Teaching & Research Assistant**
   * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
+
+
+## Latest News
+{% for post in site.posts limit:5 %}
+    {% include archive-single-talk.html %}
+{% endfor %}
+
+<p align="right">
+  <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
+</p>
+
+
+## Research Topics
+  * Identification/Classification/Taxonomy
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <p>
+      <img src='/images/research/research-01.png' width="30%" />
+      <img src='/images/research/research-02.png' width="50%" />
+      </p>
+    </div>
+  * Pangenomic analyses
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <p>
+      <img src='/images/research/research-03.png' width="40%" />
+      <img src='/images/research/research-04.png' width="40%" />
+      </p>
+    </div>
+  * Ecological relationship
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <p>
+      <img src='/images/research/research-05.png' width="40%" />
+      <img src='/images/research/research-06.png' width="40%" />
+      </p>
+    </div>
 
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
