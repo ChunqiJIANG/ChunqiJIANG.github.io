@@ -21,10 +21,7 @@ Thank you for visiting here.
 Please feel free to contact him if any queries (中文/ENGLISH/日本語). 
 
 ### Keywords
-- microbiology
-- taxonomy
-- genomics
-- bioinformatics
+**· Microbiology       · Genomics     · Ecology   · Bioinformatic**
 
 ## Affiliations
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
