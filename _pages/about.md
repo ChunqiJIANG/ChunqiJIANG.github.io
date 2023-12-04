@@ -48,7 +48,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 * 2017.04 - 2018.03 **International Exchange Program**, *Hokkaido University*, Hokkaido, Japan
 * 2016.06 – 2016.07 **International Summer Program**, *California State Polytechnic University*, Pomona, USA
 
-## Awards
+## Selected Awards
 * 2020 **"Outstanding Student Presentation Award"**, *Japanese Fisheries Science Conference (Hokkaido)*, Japan
 * 2016 **"Merit Student"**, *Shanghai Ocean University*, China
 * 2015 **"Outstanding Undergraduate Thesis"**, *Suzhou University of Science and Technology*, China
@@ -56,7 +56,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 * 2013 **"Provincial-Level Merit Student"**, *Jiangsu Education Department*, China
 * 2012 **"Merit Student"**, *Suzhou University of Science and Technology*, China
 
-## Scholarships
+## Selected Scholarships
 * 2017 **"Overseas Study Funding"**, *Shanghai Ocean University*, China
 * 2016 **"First-Class Academic Scholarship"**, *Shanghai Ocean University*, China
 * 2014 **"National Scholarship"**, *Ministry of Education of the People's Republic of China*, China
