@@ -10,61 +10,55 @@ redirect_from:
 {% include base_path %}
 
 ***
+## Keywords
+**· Microbiology       · Genomics     · Ecology   · Bioinformatic**
 
-Skills
+## Affiliations
+* 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
+  * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
+  * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI UTokyo)
+
+* 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
+  * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
+
+* 2018.10 - 2022.06: **Teaching & Research Assistant**
+  * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
+
+## Ocean Cruise
+* 2023.05.01 - 2023.05.12  **KS-23-7**  *新青丸 (Shinsei-maru)*
+
+## Education
+* 2018.10 - 2022.06  **Ph.D**  *Hokkaido University (Japan)*
+  * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome), Prof. Tomoo Sawabe　
+* 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (China)*
+* 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
+
+## Overseas experience
+* 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
+* 2017.04 - 2018.03 **International Exchange Program**, *Hokkaido University*, Hokkaido, Japan
+* 2016.06 – 2016.07 **International Summer Program**, *California State Polytechnic University*, Pomona, USA
+
+## Selected Awards
+* 2020 **"Outstanding Student Presentation Award"**, *Japanese Fisheries Science Conference (Hokkaido)*, Japan
+* 2016 **"Merit Student"**, *Shanghai Ocean University*, China
+* 2015 **"Outstanding Undergraduate Thesis"**, *Suzhou University of Science and Technology*, China
+* 2015 **"Outstanding Graduates"**, *Suzhou University of Science and Technology*, China
+* 2013 **"Provincial-Level Merit Student"**, *Jiangsu Education Department*, China
+* 2012 **"Merit Student"**, *Suzhou University of Science and Technology*, China
+
+## Selected Scholarships
+* 2017 **"Overseas Study Funding"**, *Shanghai Ocean University*, China
+* 2016 **"First-Class Academic Scholarship"**, *Shanghai Ocean University*, China
+* 2014 **"National Scholarship"**, *Ministry of Education of the People's Republic of China*, China
+* 2013 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
+* 2012 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
+
+## Teaching Experience
 ======
-* Microbiology experiments
-* Next generation sequencing
-  * Illumina
-  * Nanopore
-* Bioinformatics
-  * Data control
-  * Genome assembly
-  * Genome analysis
+* Teaching Assistant/Teaching Fellow
+  * "Microbiology Experiments" - Faculty of Fisheries Sciences, Hokkaido University 
+  * "Bioinformatics for Marine Life Science" - Graduate School of Fisheries Sciences, Hokkaido University 
 
-Education
-======
-* 2018.10 - 2022.06 *Hokkaido University (Japan)*, Ph.D
-* 2015.09 - 2018.06 *Shanghai Ocean University (China)*, M.S.
-* 2011.09 - 2015.06 *Suzhou University of Science and Technology (China)*, B.S.
-
-
-Working experience
-======
-* 2022.11 - now : Postdoctoral Researcher
-  * Atmosphere and Ocean Research Institute, The University of Tokyo
-  * Supervisor: Associate Professor Yoshizawa Susumu
-
-* 2022.07 - 2022.10: Accademic Researcher
-  * Graduate School of Fisheries Sciences, Hokkaido University
-  * Supervisor: Associate Professor Kasai Hisae
-
-* 2018.10 - 2022.06: Teaching/Research Assistant
-  * Graduate School of Fisheries Sciences / Faculty of Fisheries Sciences, Hokkaido University
-  * Supervisor: Professor Sawabe Tomoo
-
-Overseas experience
-======
-* 2019.06 - 2019.07 International Summer Course, *National University of Singapore*, Singapore
-* 2017.04 - 2018.03 International Exchange Program, *Hokkaido University*, Hokkaido, Japan
-* 2016.06 – 2016.07 International Summer Program, *California State Polytechnic University*, Pomona, USA
-
-Award
-======
-* 2020 "Outstanding Student Presentation Award", *Japanese Fisheries Science Conference (Hokkaido)*, Japan
-* 2016 "Merit Student", *Shanghai Ocean University*, China
-* 2015 "Outstanding Undergraduate Thesis" from *Suzhou University of Science and Technology*, China
-* 2015 "Outstanding Graduates", *Suzhou University of Science and Technology*, China
-* 2013 "Provincial-Level Merit Student", *Jiangsu Education Department*, China
-* 2012 "Merit Student", *Suzhou University of Science and Technology*, China
-
-Scholarships
-======
-* 2017 "Overseas Study Funding", *Shanghai Ocean University*, China
-* 2016 "First-Class Academic Scholarship", *Shanghai Ocean University*, China
-* 2014 "National Scholarship", *Ministry of Education of the People's Republic of China*, China
-* 2013 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
-* 2012 "First-Class Academic Scholarship", *Suzhou University of Science and Technology*, China
 
 Publications
 ======
@@ -78,11 +72,7 @@ Conferences
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching experience
-======
-* Teaching Assistant/Teaching Fellow
-  * "Microbiology Experiments" - Faculty of Fisheries Sciences, Hokkaido University 
-  * "Bioinformatics for Marine Life Science" - Graduate School of Fisheries Sciences, Hokkaido University 
+
 
 <!--
 <iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
