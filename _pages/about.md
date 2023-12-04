@@ -25,9 +25,10 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 ## Latest News
 {% for post in site.posts limit:5 %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
 {% endfor %}
 
+<p align="right"> more </p>
 
 ## Research
 
