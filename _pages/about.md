@@ -29,7 +29,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 {% endfor %}
 
 <p align="right">
-  <a href="https://chunqijiang.github.io/year-archive/" >...more</a>
+  <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
 </p>
 
 
