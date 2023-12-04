@@ -23,6 +23,12 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 ### Keywords
 **· Microbiology       · Genomics     · Ecology   · Bioinformatic**
 
+News
+======
+{% for post in site.talks limit:5 %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+
 ## Affiliations
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
   * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
@@ -33,35 +39,6 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 * 2018.10 - 2022.06: **Teaching & Research Assistant**
   * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
-
-## Ocean Cruise
-* 2023.05.01 - 2023.05.12  **KS-23-7**  *新青丸 (Shinsei-maru)*
-
-## Education
-* 2018.10 - 2022.06  **Ph.D**  *Hokkaido University (Japan)*
-  * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome), Prof. Tomoo Sawabe　
-* 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (China)*
-* 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
-
-## Overseas experience
-* 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
-* 2017.04 - 2018.03 **International Exchange Program**, *Hokkaido University*, Hokkaido, Japan
-* 2016.06 – 2016.07 **International Summer Program**, *California State Polytechnic University*, Pomona, USA
-
-## Selected Awards
-* 2020 **"Outstanding Student Presentation Award"**, *Japanese Fisheries Science Conference (Hokkaido)*, Japan
-* 2016 **"Merit Student"**, *Shanghai Ocean University*, China
-* 2015 **"Outstanding Undergraduate Thesis"**, *Suzhou University of Science and Technology*, China
-* 2015 **"Outstanding Graduates"**, *Suzhou University of Science and Technology*, China
-* 2013 **"Provincial-Level Merit Student"**, *Jiangsu Education Department*, China
-* 2012 **"Merit Student"**, *Suzhou University of Science and Technology*, China
-
-## Selected Scholarships
-* 2017 **"Overseas Study Funding"**, *Shanghai Ocean University*, China
-* 2016 **"First-Class Academic Scholarship"**, *Shanghai Ocean University*, China
-* 2014 **"National Scholarship"**, *Ministry of Education of the People's Republic of China*, China
-* 2013 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
-* 2012 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
 
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
