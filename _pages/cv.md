@@ -24,14 +24,14 @@ redirect_from:
 * 2018.10 - 2022.06: **Teaching & Research Assistant**
   * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
 
-## Ocean Cruise
-* 2023.05.01 - 2023.05.12  **KS-23-7**  *新青丸 (Shinsei-maru)*
-
 ## Education
 * 2018.10 - 2022.06  **Ph.D**  *Hokkaido University (Japan)*
   * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome), Prof. Tomoo Sawabe　
 * 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (China)*
 * 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
+
+## Ocean Cruise
+* 2023.05.01 - 2023.05.12  **KS-23-7**  *新青丸 (Shinsei-maru)*
 
 ## Overseas experience
 * 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
