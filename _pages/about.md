@@ -20,8 +20,8 @@ Thank you for visiting here.
 
 Please feel free to contact him if any queries (中文/ENGLISH/日本語). 
 
-#### Keywords
-**· Microbiology       · Genomics     · Ecology   · Bioinformatic**
+### Keywords
+***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
 
 ## Latest News
 {% for post in site.posts limit:5 %}
@@ -29,7 +29,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 {% endfor %}
 
 <p align="right">
-  <a href="[your_link_here](https://chunqijiang.github.io/year-archive/)" >...more</a>
+  <a href="https://chunqijiang.github.io/year-archive/" >...more</a>
 </p>
 
 
