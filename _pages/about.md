@@ -61,18 +61,26 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
       </p>
     </div>
   * Ecological relationship
+    <p align="center">
+      <img src='/images/research/research-08.png' width="60%" /> 
+    </p>
+    
     <div style="display: flex; justify-content: center; align-items: center;">
       <p>
       <img src='/images/research/research-05.png' width="40%" />
       <img src='/images/research/research-06.png' width="40%" />
       </p>
     </div>
+
   * Sequencing
     <div style="display: flex; justify-content: center; align-items: center;">
       <p>
       <img src='/images/research/research-07.png' width="40%" />
       </p>
     </div>   
+
+
+
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
 
