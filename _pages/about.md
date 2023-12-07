@@ -23,28 +23,6 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 ### Keywords
 ***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
 
-## Affiliations
-* 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
-  * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
-  * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI UTokyo)
-
-* 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
-  * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
-
-* 2018.10 - 2022.06: **Teaching & Research Assistant**
-  * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
-
-
-## Latest News
-{% for post in site.posts limit:5 %}
-    {% include archive-single-talk.html %}
-{% endfor %}
-
-<p align="right">
-  <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
-</p>
-
-
 ## Research Topics
   * Identification/Classification/Taxonomy
     <div style="display: flex; justify-content: center; align-items: center;">
@@ -61,9 +39,12 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
       </p>
     </div>
   * Ecological relationship
-    <p align="center">
-      <img src='/images/research/research-08.png' width="60%" /> 
-    </p>
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <p>
+      <img src='/images/research/research-08.png' width="40%" />
+      <img src='/images/research/research-09.png' width="40%" />
+      </p>
+    </div>
     
     <div style="display: flex; justify-content: center; align-items: center;">
       <p>
@@ -79,7 +60,25 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
       </p>
     </div>   
 
+## Latest News
+{% for post in site.posts limit:5 %}
+    {% include archive-single-talk.html %}
+{% endfor %}
 
+<p align="right">
+  <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
+</p>
+
+## Affiliations
+* 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
+  * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
+  * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI UTokyo)
+
+* 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
+  * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
+
+* 2018.10 - 2022.06: **Teaching & Research Assistant**
+  * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
 
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
