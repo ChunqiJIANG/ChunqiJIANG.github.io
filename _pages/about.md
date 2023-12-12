@@ -69,6 +69,9 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
   <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
 </p>
 
+## Memberships
+* [Japanese Society of Microbial Ecology (JSME)](https://www.microbial-ecology.jp/)
+
 ## Affiliations
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
   * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
@@ -76,9 +79,6 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 * 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
   * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
-
-* 2018.10 - 2022.06: **Teaching & Research Assistant**
-  * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
 
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
