@@ -24,6 +24,13 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 ***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
 
 ## Research Topics
+  * Sequencing/Data handling/de novo Assembly
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <p>
+      <img src='/images/research/research-07.png' width="40%" />
+      <img src='/images/research/research-10.png' width="40%" />  
+      </p>
+    </div>  
   * Identification/Classification/Taxonomy
     <div style="display: flex; justify-content: center; align-items: center;">
       <p>
@@ -51,14 +58,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
       <img src='/images/research/research-05.png' width="40%" />
       <img src='/images/research/research-06.png' width="40%" />
       </p>
-    </div>
-
-  * Sequencing
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <p>
-      <img src='/images/research/research-07.png' width="40%" />
-      </p>
-    </div>   
+    </div> 
 
 ## Latest News
 {% for post in site.posts limit:5 %}
