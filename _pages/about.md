@@ -28,7 +28,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
     <div style="display: flex; justify-content: center; align-items: center;">
       <p>
       <img src='/images/research/research-07.png' width="40%" />
-      <img src='/images/research/research-10.png' width="40%" />  
+      <img src='/images/research/research-10.png' width="50%" />  
       </p>
     </div>  
   * Identification/Classification/Taxonomy
