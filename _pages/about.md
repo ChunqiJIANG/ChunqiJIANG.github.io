@@ -23,6 +23,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 ### Keywords
 ***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
 
+
 ## Research Topics
   * Sequencing/Data handling/de novo Assembly
     <div style="display: flex; justify-content: center; align-items: center;">
@@ -69,16 +70,21 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
   <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
 </p>
 
-## Memberships
-* [Japanese Society of Microbial Ecology (JSME)](https://www.microbial-ecology.jp/)
 
 ## Affiliations
+* 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
+  * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
+  
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
   * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
   * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI UTokyo)
 
-* 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
-  * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
+## Memberships
+* [Japanese Society of Microbial Ecology (JSME)](https://www.microbial-ecology.jp/)
+
+## Academic Work
+* [Current Microbiology](https://www.springer.com/journal/284): **Reviewer**
+
 
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
