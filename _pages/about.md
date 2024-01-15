@@ -85,12 +85,13 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 ## Latest Papers
 {% for post in site.publications limit:3 %}
-    {% include archive-single-talk.html %}
+    {% include archive-single.html %}
 {% endfor %}
 
 <p align="right">
   <a href="https://chunqijiang.github.io/publications/" >...more </a>
 </p>
+
 
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
