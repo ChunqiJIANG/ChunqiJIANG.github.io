@@ -85,7 +85,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 ## Latest Papers
 {% for post in site.publications limit:3 %} 
-    {% include archive-single-talk.html %} 
+    {% include archive-single-about.html %} 
 {% endfor %}
 
 <p align="right">
