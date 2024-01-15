@@ -84,7 +84,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 </p>
 
 ## Latest Papers
-{% for post in site.publications reversed %} 
+{% for post in site.publications reversed limit:5 %}
     {% include archive-single-about.html %} 
 {% endfor %}
 
