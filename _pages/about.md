@@ -84,9 +84,11 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 </p>
 
 ## Latest Papers
-{% for post in site.publications reversed limit:5 %}
-    {% include archive-single-about.html %} 
+{% assign latest_publications = site.publications | reverse | slice: 0, 5 %}
+{% for post in latest_publications %}
+  {% include archive-single-about.html %}
 {% endfor %}
+
 
 <p align="right">
   <a href="https://chunqijiang.github.io/publications/" >...more </a>
