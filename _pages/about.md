@@ -76,7 +76,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 ## Latest News
 {% for post in site.posts limit:5 %}
-    {% include archive-single-about.html %}
+    {% include archive-single-talk.html %}
 {% endfor %}
 
 <p align="right">
@@ -85,7 +85,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 ## Latest Papers
 {% for post in site.publications limit:3 %} 
-    {% include archive-single-about.html %} 
+    {% include archive-single-talk.html %} 
 {% endfor %}
 
 <p align="right">
