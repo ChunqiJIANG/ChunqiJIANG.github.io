@@ -104,8 +104,6 @@ Atmosphere and Ocean Research Institute, The University of Tokyo
 
 5-1-5, Kashiwanoha, Kashiwa-shi, Chiba, 277-8564 Japan
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6463.822748595619!2d139.93297059999998!3d35.9001862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8674dbc6534f65%3A0xdc3139354b7c396b!2sAtmosphere%20and%20Ocean%20Research%20Institute%2C%20The%20University%20of%20Tokyo!5e0!3m2!1sen!2sjp!4v1678844783188!5m2!1sen!2sjp" width="800" height="600" align="center" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6463.847590994941!2d139.933027!3d35.899882!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8674dbc6534f65%3A0xdc3139354b7c396b!2sAtmosphere%20and%20Ocean%20Research%20Institute%2C%20The%20University%20of%20Tokyo!5e0!3m2!1sen!2sjp!4v1705294842319!5m2!1sen!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
