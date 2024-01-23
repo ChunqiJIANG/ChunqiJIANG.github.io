@@ -36,6 +36,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 
 ## Academic Work
 * [Current Microbiology](https://www.springer.com/journal/284): **Reviewer**
+* [PLOS ONE](https://journals.plos.org/plosone/): **Reviewer**
 
 ## Research Topics
   * Sequencing/Data handling/de novo Assembly
