@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="right"> 2023/12 </p>
+<p align="right"> Update 2024/03 </p>
 
 ***
 ## Keywords
@@ -33,7 +33,8 @@ redirect_from:
 * 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
 
 ## Ocean Cruise
-* 2023.05.01 - 2023.05.12  **KS-23-7**  *新青丸 (Shinsei-maru)*
+* 2023.05.01 - 2023.05.12    **[KS-23-7]**    *新青丸 (Shinsei-maru)*
+* 2024.02.13 - 2024.02.29    **[MR24-01C]**    *みらい (Mirai)*
 
 ## Overseas experience
 * 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
