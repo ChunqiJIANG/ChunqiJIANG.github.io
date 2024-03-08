@@ -1,7 +1,7 @@
 ---
 title: 'Cruise MR24-01C'
-date: 2024-03-08
-permalink: /posts/2024-03-08-blog-post-15-cruise
+date: 2024-03-07
+permalink: /posts/2024-03-07-blog-post-15-cruise
 tags:
   - cruise
 ---
