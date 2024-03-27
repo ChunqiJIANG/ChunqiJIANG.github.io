@@ -57,9 +57,9 @@ redirect_from:
 * 2012 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
 
 ## Teaching Experience
-* Teaching Assistant/Teaching Fellow
-  * "Microbiology Experiments" - Faculty of Fisheries Sciences, Hokkaido University 
-  * "Bioinformatics for Marine Life Science" - Graduate School of Fisheries Sciences, Hokkaido University 
+  <ul>{% for post in site.publications %}
+    {% include archive-single-teaching.html %}
+  {% endfor %}</ul>
 
 ## Publications
   <ul>{% for post in site.publications %}
