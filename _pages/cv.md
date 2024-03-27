@@ -33,8 +33,8 @@ redirect_from:
 * 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
 
 ## Ocean Cruise
-* 2023.05.01 - 2023.05.12    **[KS-23-7]**    *新青丸 (Shinsei-maru)*
 * 2024.02.13 - 2024.02.29    **[MR24-01C]**    *みらい (Mirai)*
+* 2023.05.01 - 2023.05.12    **[KS-23-7]**    *新青丸 (Shinsei-maru)*
 
 ## Overseas experience
 * 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
@@ -57,19 +57,17 @@ redirect_from:
 * 2012 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
 
 ## Teaching Experience
-* 2018-2021 **『Teaching Assistant』** Microbiology Experiments(Undergraduate Course), *Faculty of Fisheries Sciences, Hokkaido University*
-
-* 2020-2022 **『Teaching Assistant』** Bioinformatics for Marine Life Science (Hokkaido Summer Course), *Graduate School of Fisheries Sciences, Hokkaido University*
-
 * 2021-2022 **『Teaching Fellow』** Microbiology Experiments(Undergraduate Course), *Faculty of Fisheries Sciences, Hokkaido University*
-
+* 2020-2022 **『Teaching Assistant』** Bioinformatics for Marine Life Science (Hokkaido Summer Course), *Graduate School of Fisheries Sciences, Hokkaido University*
+* 2018-2021 **『Teaching Assistant』** Microbiology Experiments(Undergraduate Course), *Faculty of Fisheries Sciences, Hokkaido University*
+  
 ## Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reserved %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Conferences
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reserved %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
