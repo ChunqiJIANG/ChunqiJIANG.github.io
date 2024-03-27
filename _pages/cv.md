@@ -62,12 +62,12 @@ redirect_from:
 * 2018-2021 **『Teaching Assistant』** Microbiology Experiments(Undergraduate Course), *Faculty of Fisheries Sciences, Hokkaido University*
   
 ## Publications
-  <ul>{% for post in site.publications reserved %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Conferences
-  <ul>{% for post in site.talks reserved %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
