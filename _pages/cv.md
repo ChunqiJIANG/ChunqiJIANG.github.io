@@ -57,7 +57,7 @@ redirect_from:
 * 2012 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
 
 ## Teaching Experience
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-teaching.html %}
   {% endfor %}</ul>
 
