@@ -57,9 +57,11 @@ redirect_from:
 * 2012 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
 
 ## Teaching Experience
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-teaching.html %}
-  {% endfor %}</ul>
+* **Teaching Assistant** Microbiology Experiments(Undergraduate Course), *Faculty of Fisheries Sciences, Hokkaido University*, 2018-2021
+
+* **Teaching Assistant** Bioinformatics for Marine Life Science (Hokkaido Summer Course), *Graduate School of Fisheries Sciences, Hokkaido University*, 2020-2022
+
+* **Teaching Fellow** Microbiology Experiments(Undergraduate Course), *Faculty of Fisheries Sciences, Hokkaido University*, 2021-2022
 
 ## Publications
   <ul>{% for post in site.publications %}
