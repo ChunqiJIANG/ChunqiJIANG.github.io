@@ -11,7 +11,9 @@ venue: 'Curr Microbiol'
 
 paperurl: https://link.springer.com/article/10.1007/s00284-024-03751-4
 
-citation: 'Kudo, R., Yamano, R., Yu, J. et al. The Description of *Pseudoalteromonas apostichopi* sp. nov., *Vibrio apostichopi* sp. nov., and *Marinobacter apostichopi* sp. nov. from the Fertilized Eggs and Larvae of Apostichopus japonicus. Curr Microbiol 81, 246 (2024).'
+citation: 'Kudo, R., Yamano, R., Yu, J. et al. 
+The Description of *Pseudoalteromonas apostichopi* sp. nov., *Vibrio apostichopi* sp. nov., and *Marinobacter apostichopi* sp. nov. from the Fertilized Eggs and Larvae of Apostichopus japonicus. 
+Curr Microbiol 81, 246 (2024).'
 
 ---
 
