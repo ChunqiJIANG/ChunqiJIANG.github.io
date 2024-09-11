@@ -1,5 +1,5 @@
 ---
-title: 'Cruise MR24-01C'
+title: '🚢 Cruise MR24-01C'
 date: 2024-03-07
 permalink: /posts/2024-03-07-blog-post-15-cruise
 tags:
