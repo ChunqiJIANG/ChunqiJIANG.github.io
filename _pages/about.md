@@ -14,6 +14,12 @@ Hi, there!
 
 Thank you for visiting here. 
 
+**Quick guide:**
+
+[:triangular_flag_on_post: <14th_ASME_2024@Taipei> ]()
+
+[:triangular_flag_on_post: <37th_JSME_2024@Hiroshima> ]()
+
 <p align="right"> (Recent update on 2024/03) </p>
 
 **Dr. Chunqi Jiang** specializes in marine microbiology with a particular focus on the *Vibrionaceae* family, utilizing advanced genomic techniques. He has extensive experience with next-generation sequencing technologies, including Nanopore sequencing, as well as *de novo* assembly and genomic analyses. Currently, Dr. Jiang is expanding his research to explore the dynamics, functions, and novel insights of marine microorganisms through **BIG DATA (Metagenomics)**, with an initial focus on the phylum ***Chloroflexota***.
