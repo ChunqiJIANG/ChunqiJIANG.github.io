@@ -16,9 +16,9 @@ Thank you for visiting here.
 
 **Quick guide:**
 
-[:triangular_flag_on_post: <14th_ASME_2024@Taipei> ]()
+[ 🚩 <14th_ASME_2024@Taipei> ]()
 
-[:triangular_flag_on_post: <37th_JSME_2024@Hiroshima> ]()
+[&#x1F6A9; <37th_JSME_2024@Hiroshima> ]()
 
 <p align="right"> (Recent update on 2024/03) </p>
 
