@@ -16,7 +16,7 @@ Thank you for visiting here.
 
 **Quick guide:**
 
-[ 🚩 <14th_ASME_2024@Taipei> ]()
+[ 🚩 <14th_ASME_2024@Taipei> ](https://github.com/ChunqiJIANG/ChunqiJIANG.github.io/blob/master/_posts/2024-09-18-blog-post-17-c.md)
 
 [&#x1F6A9; <37th_JSME_2024@Hiroshima> ]()
 
