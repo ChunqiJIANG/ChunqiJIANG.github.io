@@ -1,5 +1,5 @@
 ---
-title: 'Cruise KS-23-7'
+title: '🚢 Cruise KS-23-7'
 date: 2023-05-15
 permalink: /posts/2023-05-15-blog-post-10-cruise
 tags:
