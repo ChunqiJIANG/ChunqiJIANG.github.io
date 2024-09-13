@@ -16,9 +16,9 @@ Thank you for visiting here.
 
 **Quick guide:**
 
-[ 🚩 <14th_ASME_2024@Taipei> ](https://chunqijiang.github.io/posts/2024-09-18-blog-post-17-c)
+[<14th_ASME_2024@Taipei>  🚩 ](https://chunqijiang.github.io/posts/2024-09-18-blog-post-17-c)
 
-[&#x1F6A9; <37th_JSME_2024@Hiroshima> ]()
+[<37th_JSME_2024@Hiroshima> &#x1F6A9;]()
 
 <p align="right"> (Recent update on 2024/03) </p>
 
