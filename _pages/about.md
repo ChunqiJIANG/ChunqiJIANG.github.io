@@ -15,7 +15,7 @@ Hi, there!
  
 **Quick guide:**
 
-[&#x1F6A9; 37th_JSME_2024@Hiroshima](https://chunqijiang.github.io/)
+[&#x1F6A9; 37th_JSME_2024@Hiroshima](https://chunqijiang.github.io/posts/2024-10-25-blog-post-18-c)
 
  
 ---
