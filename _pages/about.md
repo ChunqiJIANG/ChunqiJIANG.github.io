@@ -15,12 +15,10 @@ Hi, there!
  
 **Quick guide:**
 
-- [🚩 14th_ASME_2024@Taipei](https://chunqijiang.github.io/posts/2024-09-18-blog-post-17-c)
-
-- [&#x1F6A9; 37th_JSME_2024@Hiroshima](https://chunqijiang.github.io/)
+[&#x1F6A9; 37th_JSME_2024@Hiroshima](https://chunqijiang.github.io/)
 
  
-
+---
 Thank you for visiting here. 
 <p align="right"> (Recent update on 2024/03) </p>
 
