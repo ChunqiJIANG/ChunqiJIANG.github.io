@@ -97,6 +97,7 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
 ## Memberships
 * [Japanese Society of Microbial Ecology (JSME)](https://www.microbial-ecology.jp/)
 * [International Society for Microbial Ecology (ISME)](https://www.isme-microbes.org/)
+* [American Society for Microbiology (ASM)](https://asm.org/)
 
 ## Academic Work
 * [Current Microbiology](https://www.springer.com/journal/284): **Reviewer**
