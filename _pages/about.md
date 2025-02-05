@@ -11,24 +11,21 @@ redirect_from:
 Hi, there! 
 
 # This is Dr. Chunqi JIANG’s webpage!
+Thank you for visiting here. 
+<p align="right"> (Recent update on 2025/01) </p>
 
-
+<!-- hide info
 **Quick guide:**
 
 waiting...
+-->
 
----
-Thank you for visiting here. 
-<p align="right"> (Recent update on 2024/10) </p>
-
-**Dr. Chunqi Jiang** specializes in marine microbiology with a particular focus on the *Vibrionaceae* family, utilizing advanced genomic techniques. He has extensive experience with next-generation sequencing technologies, including Nanopore sequencing, as well as *de novo* assembly and genomic analyses. Currently, Dr. Jiang is expanding his research to explore the dynamics, functions, and novel insights of marine microorganisms through **BIG DATA (Metagenomics)**, with an initial focus on the phylum ***Chloroflexota***.
-
+**Dr. Chunqi Jiang** specializes in marine microbiology with a particular focus on the *Vibrionaceae* family, utilizing advanced genomic techniques. He has extensive experience with next-generation sequencing technologies, including Nanopore sequencing, as well as *de novo* assembly and genomic analyses. Currently, he is expanding his research to explore the dynamics, functions, and novel insights of marine microorganisms through **BIG DATA (Metagenomics)**, with an initial focus on the phylum ***Chloroflexota***.
 
 Please feel free to contact him if any queries (中文/ENGLISH/日本語). 
 
 ### Keywords
 ***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
-
 
 ## Affiliations
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
@@ -36,6 +33,16 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
   * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI UTokyo)
 * 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
   * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
+
+## Memberships
+* [Japanese Society of Microbial Ecology (JSME)](https://www.microbial-ecology.jp/)
+* [International Society for Microbial Ecology (ISME)](https://www.isme-microbes.org/)
+* [American Society for Microbiology (ASM)](https://asm.org/)
+
+## Academic Work
+* [The ISME Journal](https://www.nature.com/ismej/) & [ISME Communications](https://www.nature.com/ismecomms): **Early Career Scientist(ECS) reviewer**
+* [Current Microbiology](https://www.springer.com/journal/284): **Reviewer**
+* [PLOS ONE](https://journals.plos.org/plosone/): **Reviewer**
 
 ## Research Topics
   * Sequencing/Data handling/de novo Assembly
@@ -94,14 +101,6 @@ Please feel free to contact him if any queries (中文/ENGLISH/日本語).
   <a href="https://chunqijiang.github.io/publications/" >...more </a>
 </p>
 
-## Memberships
-* [Japanese Society of Microbial Ecology (JSME)](https://www.microbial-ecology.jp/)
-* [International Society for Microbial Ecology (ISME)](https://www.isme-microbes.org/)
-* [American Society for Microbiology (ASM)](https://asm.org/)
-
-## Academic Work
-* [Current Microbiology](https://www.springer.com/journal/284): **Reviewer**
-* [PLOS ONE](https://journals.plos.org/plosone/): **Reviewer**
 
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
