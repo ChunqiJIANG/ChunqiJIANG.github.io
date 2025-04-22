@@ -30,7 +30,7 @@ redirect_from:
 * 2018.10 - 2022.06  **Ph.D** 　*Hokkaido University (Hokkaido, Japan)*
   * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome) Prof. Tomoo Sawabe
 * 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (Shanghai, China)*
-  * 2017.04 - 2018.03 **Exchange Student**, *Hokkaido University (Hokkaido, Japan)*
+  * 2017.04 - 2018.03 **Exchange Student** *Hokkaido University (Hokkaido, Japan)*
 * 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (Suzhou, China)*
 
 ## Overseas experience
