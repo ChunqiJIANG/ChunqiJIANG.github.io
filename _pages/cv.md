@@ -27,19 +27,19 @@ redirect_from:
   * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
 
 ## Education
-* 2018.10 - 2022.06  **Ph.D**  *Hokkaido University (Japan)*
-  * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome), Prof. Tomoo Sawabe　
-* 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (China)*
-* 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (China)*
+* 2018.10 - 2022.06  **Ph.D** 　*Hokkaido University (Hokkaido, Japan)*
+  * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome) Prof. Tomoo Sawabe
+* 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (Shanghai, China)*
+  * 2017.04 - 2018.03 **Exchange Student**, *Hokkaido University (Hokkaido, Japan)*
+* 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (Suzhou, China)*
+
+## Overseas experience
+* 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
+* 2016.06 – 2016.07 **International Summer Program**, *California State Polytechnic University*, Pomona, USA
 
 ## Ocean Cruise
 * 2024.02.13 - 2024.02.29    **[MR24-01C]**    *みらい (Mirai)*
 * 2023.05.01 - 2023.05.12    **[KS-23-7]**    *新青丸 (Shinsei-maru)*
-
-## Overseas experience
-* 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
-* 2017.04 - 2018.03 **International Exchange Program**, *Hokkaido University*, Hokkaido, Japan
-* 2016.06 – 2016.07 **International Summer Program**, *California State Polytechnic University*, Pomona, USA
 
 ## Selected Awards
 * 2020 **"Outstanding Student Presentation Award"**, *Japanese Fisheries Science Conference (Hokkaido)*, Japan
