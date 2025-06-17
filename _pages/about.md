@@ -12,7 +12,7 @@ Hi, there!
 
 # This is Dr. Chunqi JIANG’s webpage!
 Thank you for visiting here. 
-<p align="right"> (Recent update on 2025/01) </p>
+<p align="right"> (Recent update on 2025/06) </p>
 
 <!-- hide info
 **Quick guide:**
@@ -24,25 +24,29 @@ waiting...
 
 Please feel free to contact him if any queries or cooperation (中文/ENGLISH/日本語). 
 
-### Keywords
+#### Keywords
 ***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
 
-## Affiliations
-* 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
-  * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
-  * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI UTokyo)
-* 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
-  * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
 
-## Memberships
-* [Japanese Society of Microbial Ecology (JSME)](https://www.microbial-ecology.jp/)
-* [International Society for Microbial Ecology (ISME)](https://www.isme-microbes.org/)
-* [American Society for Microbiology (ASM)](https://asm.org/)
 
-## Academic Work
-* [The ISME Journal](https://www.nature.com/ismej/) & [ISME Communications](https://www.nature.com/ismecomms): **Early Career Scientist(ECS) reviewer**
-* [Current Microbiology](https://www.springer.com/journal/284): **Reviewer**
-* [PLOS ONE](https://journals.plos.org/plosone/): **Reviewer**
+## Latest News
+{% for post in site.posts limit:5 %}
+    {% include archive-single-talk.html %}
+{% endfor %}
+
+<p align="right">
+  <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
+</p>
+
+## Latest Papers
+{% assign latest_publications = site.publications | reverse | slice: 0, 5 %}
+{% for post in latest_publications %}
+  {% include archive-single-about.html %}
+{% endfor %}
+
+<p align="right">
+  <a href="https://chunqijiang.github.io/publications/" >...more </a>
+</p>
 
 ## Research Topics
   * Sequencing/Data handling/de novo Assembly
@@ -81,26 +85,22 @@ Please feel free to contact him if any queries or cooperation (中文/ENGLISH/�
       </p>
     </div> 
 
-## Latest News
-{% for post in site.posts limit:5 %}
-    {% include archive-single-talk.html %}
-{% endfor %}
+## Affiliations
+* 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
+  * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
+  * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI UTokyo)
+* 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
+  * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
 
-<p align="right">
-  <a href="https://chunqijiang.github.io/year-archive/" >...more </a>
-</p>
+## Memberships
+* [Japanese Society of Microbial Ecology (JSME)](https://www.microbial-ecology.jp/)
+* [International Society for Microbial Ecology (ISME)](https://www.isme-microbes.org/)
+* [American Society for Microbiology (ASM)](https://asm.org/)
 
-## Latest Papers
-{% assign latest_publications = site.publications | reverse | slice: 0, 5 %}
-{% for post in latest_publications %}
-  {% include archive-single-about.html %}
-{% endfor %}
-
-
-<p align="right">
-  <a href="https://chunqijiang.github.io/publications/" >...more </a>
-</p>
-
+## Academic Work
+* [The ISME Journal](https://www.nature.com/ismej/) & [ISME Communications](https://www.nature.com/ismecomms): **Early Career Scientist(ECS) reviewer**
+* [Current Microbiology](https://www.springer.com/journal/284): **Reviewer**
+* [PLOS ONE](https://journals.plos.org/plosone/): **Reviewer**
 
 ## Contact
 〒 277-8564 千葉県柏市柏の葉5-1-5
