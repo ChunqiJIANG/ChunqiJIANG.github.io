@@ -29,7 +29,7 @@ redirect_from:
 ## Funding
 * 2024.09 - 2025.08    **Daiichi-Sankyo "Habataku”" Support Program for the Next Generation of Researchers, The University of Tokyo**
   * *Title: 全球メタゲノムデータで解明する海洋微⽣物Chloroflexota⾨の⽣態学的役割とその適応過程*
-* 2025.04 - 2026.03    **JSPS KAKENHI**
+* 2025.04 - 2027.03    **JSPS KAKENHI**
   * *Title: Elucidation of the phylogenetics, distribution and ecological adaptation functions of the difficult-to-culture marine microorganism SAR202*
 
 ## Education
