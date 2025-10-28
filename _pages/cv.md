@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="right"> Update 2024/03 </p>
+<p align="right"> Update 2025/10 </p>
 
 ***
 ## Keywords
