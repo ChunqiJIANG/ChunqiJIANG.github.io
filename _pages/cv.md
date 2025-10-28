@@ -26,6 +26,12 @@ redirect_from:
 * 2018.10 - 2022.06: **Teaching & Research Assistant**
   * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
 
+## Funding
+* 2024.09 - 2025.08    **Daiichi-Sankyo "Habataku”" Support Program for the Next Generation of Researchers, The University of Tokyo**
+  * *Title: 全球メタゲノムデータで解明する海洋微⽣物Chloroflexota⾨の⽣態学的役割とその適応過程*
+* 2025.04 - 2026.03    **JSPS KAKENHI**
+  * *Title: Elucidation of the phylogenetics, distribution and ecological adaptation functions of the difficult-to-culture marine microorganism SAR202*
+
 ## Education
 * 2018.10 - 2022.06  **Ph.D** 　*Hokkaido University (Hokkaido, Japan)*
   * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome) Prof. Tomoo Sawabe
