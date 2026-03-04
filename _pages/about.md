@@ -20,6 +20,11 @@ Thank you for visiting here.
 waiting...
 -->
 
+<!-- hide info
+Opening sentence：
+Dr. Chunqi Jiang is a marine microbiologist specializing in microbial genomics and marine microbial ecology, with a focus on uncovering the diversity and ecological roles of uncultivated marine microorganisms.
+-->
+
 **Dr. Chunqi Jiang** is a marine microbiologist whose research focuses on understanding the diversity, evolution, and ecological functions of marine microorganisms using genome-resolved metagenomics, comparative genomics, and bioinformatics approaches. Marine microbial communities harbor a vast diversity of uncultivated microorganisms that play essential roles in global biogeochemical cycles, yet their metabolic potential and ecological functions remain poorly understood.
 
 Dr. Jiang integrates large-scale environmental metagenomic datasets with genome reconstruction and comparative genomic analyses to investigate the evolutionary history and ecological roles of key microbial lineages in marine ecosystems. His research particularly aims to uncover how marine microorganisms adapt to diverse environmental conditions and contribute to the transformation of organic matter in the ocean.
