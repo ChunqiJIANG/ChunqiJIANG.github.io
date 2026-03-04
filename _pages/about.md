@@ -20,17 +20,37 @@ Thank you for visiting here.
 waiting...
 -->
 
-**Dr. Chunqi Jiang** is a marine microbiologist specializing in microbial genomics and marine microbial ecology. His research focuses on understanding the diversity, evolution, and ecological roles of marine microorganisms using genome-resolved metagenomics, comparative genomics, and bioinformatics.
+**Dr. Chunqi Jiang** is a marine microbiologist whose research focuses on understanding the diversity, evolution, and ecological functions of marine microorganisms using genome-resolved metagenomics, comparative genomics, and bioinformatics approaches. Marine microbial communities harbor a vast diversity of uncultivated microorganisms that play essential roles in global biogeochemical cycles, yet their metabolic potential and ecological functions remain poorly understood.
 
-His work particularly investigates **uncultivated** marine microbial lineages, including members of the phylum *Chloroflexota* (e.g., SAR202) and other poorly characterized bacteria. By integrating large-scale environmental metagenomic datasets with genome analysis, he aims to uncover how these microorganisms contribute to biogeochemical cycles and organic matter degradation in marine ecosystems.
-
-He is also interested in microbial photobiology and the evolution of microbial rhodopsins, as well as the genomic basis of environmental adaptation in marine bacteria.
-
-Please feel free to contact him if any queries or cooperation (中文/ENGLISH/日本語). 
+Dr. Jiang integrates large-scale environmental metagenomic datasets with genome reconstruction and comparative genomic analyses to investigate the evolutionary history and ecological roles of key microbial lineages in marine ecosystems. His research particularly aims to uncover how marine microorganisms adapt to diverse environmental conditions and contribute to the transformation of organic matter in the ocean.
 
 #### Keywords
 ***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
 
+### Research Topics
+**1. Genomics and Ecology of Uncultivated Marine Microorganisms**
+
+A large fraction of marine microbial diversity remains uncultivated and poorly characterized. Dr. Jiang uses genome-resolved metagenomics and comparative genomics to explore the diversity, metabolic potential, and ecological roles of these microorganisms.
+
+By reconstructing genomes from environmental metagenomic datasets, his research aims to reveal the functional capabilities of uncultivated microbial lineages and their contributions to marine ecosystem processes.
+
+**2. Evolution and Metabolism of Chloroflexota (SAR202)**
+
+Members of the phylum Chloroflexota, particularly the SAR202 lineage, are widely distributed in marine environments and are believed to play important roles in the degradation of recalcitrant dissolved organic matter.
+
+Dr. Jiang investigates the genomic diversity, evolutionary history, and metabolic potential of Chloroflexota using large-scale genomic datasets. Through comparative genomic analyses, his work seeks to clarify their ecological functions and evolutionary adaptations in marine ecosystems.
+
+**3. Diversity and Evolution of Microbial Rhodopsins**
+
+Microbial rhodopsins are light-driven proteins widely distributed among marine microorganisms and are thought to contribute to microbial energy metabolism in the ocean.
+
+Dr. Jiang explores the diversity, evolutionary history, and functional diversification of microbial rhodopsins using comparative genomics and environmental metagenomic data. This research aims to better understand how light-responsive systems influence microbial survival and ecological strategies in marine environments.
+
+**4. Genomic Adaptation and Evolution of Marine Bacteria**
+
+Marine bacteria have evolved diverse genomic strategies to survive in complex and dynamic ocean environments. Dr. Jiang investigates the genomic basis of environmental adaptation in marine bacteria using large-scale comparative genomics.
+
+By analyzing gene content, metabolic pathways, and evolutionary patterns across diverse genomes, his research aims to identify key genetic mechanisms that enable microbial adaptation to marine ecological niches.
 
 
 ## Latest News
@@ -52,6 +72,8 @@ Please feel free to contact him if any queries or cooperation (中文/ENGLISH/�
   <a href="https://chunqijiang.github.io/publications/" >...more </a>
 </p>
 
+
+<!-- hide info
 ## Research Topics
   * Sequencing/Data handling/de novo Assembly
     <div style="display: flex; justify-content: center; align-items: center;">
@@ -88,6 +110,7 @@ Please feel free to contact him if any queries or cooperation (中文/ENGLISH/�
       <img src='/images/research/research-06.png' width="40%" />
       </p>
     </div> 
+-->
 
 ## Affiliations
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
