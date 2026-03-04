@@ -12,7 +12,7 @@ Hi, there!
 
 # This is Dr. Chunqi JIANG’s webpage!
 Thank you for visiting here. 
-<p align="right"> (Recent update on 2025/06) </p>
+<p align="right"> (Recent update on 2026/03) </p>
 
 <!-- hide info
 **Quick guide:**
@@ -20,7 +20,11 @@ Thank you for visiting here.
 waiting...
 -->
 
-**Dr. Chunqi Jiang** specializes in marine microbiology with a particular focus on the *Vibrionaceae* family, utilizing advanced genomic techniques. He has extensive experience with next-generation sequencing technologies, including Nanopore sequencing, as well as *de novo* assembly and genomic analyses. Currently, he is expanding his research to explore the dynamics, functions, and novel insights of marine microorganisms through **BIG DATA (Metagenomics)**, with an initial focus on the phylum ***Chloroflexota***.
+**Dr. Chunqi Jiang** is a marine microbiologist specializing in microbial genomics and marine microbial ecology. His research focuses on understanding the diversity, evolution, and ecological roles of marine microorganisms using genome-resolved metagenomics, comparative genomics, and bioinformatics.
+
+His work particularly investigates **uncultivated** marine microbial lineages, including members of the phylum *Chloroflexota* (e.g., SAR202) and other poorly characterized bacteria. By integrating large-scale environmental metagenomic datasets with genome analysis, he aims to uncover how these microorganisms contribute to biogeochemical cycles and organic matter degradation in marine ecosystems.
+
+He is also interested in microbial photobiology and the evolution of microbial rhodopsins, as well as the genomic basis of environmental adaptation in marine bacteria.
 
 Please feel free to contact him if any queries or cooperation (中文/ENGLISH/日本語). 
 
