@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, there! 
 
-## Marine Microbiologist Studying Ocean Microbial Genomics
+## Marine Microbiologist Focusing on Ocean Microbial Genomics
 Thank you for visiting here. 
 <p align="right"> (Recent update on 2026/03) </p>
 
