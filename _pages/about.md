@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About him"
-excerpt: "About him"
+title: "Dr. Chunqi Jiang"
+excerpt: "Personal website of Dr. Chunqi Jiang, a marine microbiologist at AORI, The University of Tokyo."
+description: "Personal website of Dr. Chunqi Jiang, a marine microbiologist at AORI, The University of Tokyo, studying marine microorganisms through genome-resolved metagenomics, comparative genomics, and bioinformatics."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +11,7 @@ redirect_from:
 
 Hi, there! 
 
-# This is Dr. Chunqi JIANG’s webpage!
+## Marine Microbiologist Studying Ocean Microbial Genomics
 Thank you for visiting here. 
 <p align="right"> (Recent update on 2026/03) </p>
 
@@ -29,10 +30,10 @@ Dr. Chunqi Jiang is a marine microbiologist specializing in microbial genomics a
 
 Dr. Jiang integrates large-scale environmental metagenomic datasets with genome reconstruction and comparative genomic analyses to investigate the evolutionary history and ecological roles of key microbial lineages in marine ecosystems. His research particularly aims to uncover how marine microorganisms adapt to diverse environmental conditions and contribute to the transformation of organic matter in the ocean.
 
-#### Keywords
-***· Microbiology       · Genomics     · Ecology   · Bioinformatic***
+### Keywords
+***· Microbiology       · Genomics     · Ecology   · Bioinformatics***
 
-### Research Topics
+## Research Topics
 **1. Genomics and Ecology of Uncultivated Marine Microorganisms**
 
 A large fraction of marine microbial diversity remains uncultivated and poorly characterized. Dr. Jiang uses genome-resolved metagenomics and comparative genomics to explore the diversity, metabolic potential, and ecological roles of these microorganisms.

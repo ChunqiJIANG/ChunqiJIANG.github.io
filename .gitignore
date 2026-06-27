@@ -1,2 +1,7 @@
 _site/
-
+.DS_Store
+.bundle/
+.conda-jekyll/
+Gemfile.lock
+node_modules/
+vendor/bundle/

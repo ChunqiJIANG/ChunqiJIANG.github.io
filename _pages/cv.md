@@ -13,14 +13,14 @@ redirect_from:
 
 ***
 ## Keywords
-**· Microbiology       · Genomics     · Ecology   · Bioinformatic**
+**· Microbiology       · Genomics     · Ecology   · Bioinformatics**
 
 ## Affiliations
 * 2022.11 -        : **Postdoctoral Researcher (特任研究員)**
   * [Yoshizawa group](https://genedynamics.aori.u-tokyo.ac.jp/en/vision/)
   * [Atmosphere and Ocean Research Institute, The University of Tokyo](https://www.aori.u-tokyo.ac.jp/) (AORI UTokyo)
 
-* 2022.07 - 2022.10: **Accademic Researcher (学術研究員)**
+* 2022.07 - 2022.10: **Academic Researcher (学術研究員)**
   * [Graduate School of Fisheries Sciences, Hokkaido University](https://www2.fish.hokudai.ac.jp/)
 
 * 2018.10 - 2022.06: **Teaching & Research Assistant**
@@ -76,10 +76,3 @@ redirect_from:
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-
-
-<!--
-<iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
--->
