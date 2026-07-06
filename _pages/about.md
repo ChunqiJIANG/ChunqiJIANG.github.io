@@ -13,7 +13,7 @@ Hi, there!
 
 ## Marine Microbiologist Focusing on Ocean Microbial Genomics
 Thank you for visiting here. 
-<p align="right"> (Recent update on 2026/06) </p>
+<p align="right"> (Recent update on 2026/07) </p>
 
 <!-- hide info
 **Quick guide:**
