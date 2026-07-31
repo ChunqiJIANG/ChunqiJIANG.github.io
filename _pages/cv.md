@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="right"> Update 2025/10 </p>
+<p align="right"> Update 2026/07 </p>
 
 ***
 ## Keywords
@@ -26,47 +26,134 @@ redirect_from:
 * 2018.10 - 2022.06: **Teaching & Research Assistant**
   * Graduate School of Fisheries Sciences ＆ Faculty of Fisheries Sciences, Hokkaido University
 
-## Funding
-* 2024.09 - 2025.08    **Daiichi-Sankyo "Habataku”" Support Program for the Next Generation of Researchers, The University of Tokyo**
-  * *Title: 全球メタゲノムデータで解明する海洋微⽣物Chloroflexota⾨の⽣態学的役割とその適応過程*
-* 2025.04 - 2027.03    **JSPS KAKENHI**
-  * *Title: Elucidation of the phylogenetics, distribution and ecological adaptation functions of the difficult-to-culture marine microorganism SAR202*
-
 ## Education
 * 2018.10 - 2022.06  **Ph.D** 　*Hokkaido University (Hokkaido, Japan)*
   * [Lab of Marine Microbiology](https://micro.fish.hokudai.ac.jp/labs/#welcome) Prof. Tomoo Sawabe
 * 2015.09 - 2018.06  **M.S.**   *Shanghai Ocean University (Shanghai, China)*
   * 2017.04 - 2018.03 **Exchange Student** *Hokkaido University (Hokkaido, Japan)*
-* 2011.09 - 2015.06  **B.S.**   *Suzhou University of Science and Technology (Suzhou, China)*
 
 ## Overseas experience
-* 2019.06 - 2019.07 **International Summer Course**, *National University of Singapore*, Singapore
-* 2016.06 – 2016.07 **International Summer Program**, *California State Polytechnic University*, Pomona, USA
+<table>
+  <tbody>
+    <tr>
+      <td>2019.06 - 2019.07</td>
+      <td><strong>International Summer Course</strong></td>
+      <td><em>National University of Singapore</em>, Singapore</td>
+    </tr>
+    <tr>
+      <td>2016.06 - 2016.07</td>
+      <td><strong>International Summer Program</strong></td>
+      <td><em>California State Polytechnic University</em>, Pomona, USA</td>
+    </tr>
+  </tbody>
+</table>
 
-## Ocean Cruise
-* 2024.02.13 - 2024.02.29    **[MR24-01C]**    *みらい (Mirai)*
-* 2023.05.01 - 2023.05.12    **[KS-23-7]**    *新青丸 (Shinsei-maru)*
+## Cruise and Fieldwork
+<table>
+  <tbody>
+    <tr>
+      <td>2026.02</td>
+      <td><strong>Sampling</strong></td>
+      <td>Okhotsk Sea Coast @ Hokkaido</td>
+    </tr>
+    <tr>
+      <td>2025.12</td>
+      <td><strong>Sampling</strong></td>
+      <td>スーパーカミオカンデ (Super Kamiokande)</td>
+    </tr>
+    <tr>
+      <td>2024.02</td>
+      <td><strong>Cruise</strong></td>
+      <td>「MR24-01」 @ みらい (Mirai)</td>
+    </tr>
+    <tr>
+      <td>2023.05</td>
+      <td><strong>Cruise</strong></td>
+      <td>「KS-23-7」 @ 新青丸 (Shinsei-maru)</td>
+    </tr>
+  </tbody>
+</table>
+
+## Competitive Funding
+<table>
+  <tbody>
+    <tr>
+      <td>2024.09 - 2025.08</td>
+      <td><strong>Daiichi-Sankyo "Habataku" Support Program for the Next Generation of Researchers, The University of Tokyo</strong></td>
+    </tr>
+    <tr>
+      <td>2025.04 - 2027.03</td>
+      <td><strong>JSPS KAKENHI Grant-in-Aid for Early-Career Scientists</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Selected Awards
-* 2020 **"Outstanding Student Presentation Award"**, *Japanese Fisheries Science Conference (Hokkaido)*, Japan
-* 2016 **"Merit Student"**, *Shanghai Ocean University*, China
-* 2015 **"Outstanding Undergraduate Thesis"**, *Suzhou University of Science and Technology*, China
-* 2015 **"Outstanding Graduates"**, *Suzhou University of Science and Technology*, China
-* 2013 **"Provincial-Level Merit Student"**, *Jiangsu Education Department*, China
-* 2012 **"Merit Student"**, *Suzhou University of Science and Technology*, China
+<table>
+  <tbody>
+    <tr>
+      <td>2020</td>
+      <td><strong>"Outstanding Student Presentation Award"</strong></td>
+      <td><em>Japanese Fisheries Science Conference (Hokkaido)</em>, Japan</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td><strong>"Merit Student"</strong></td>
+      <td><em>Shanghai Ocean University</em>, China</td>
+    </tr>
+    <tr>
+      <td>2013</td>
+      <td><strong>"Provincial-Level Merit Student"</strong></td>
+      <td><em>Jiangsu Education Department</em>, China</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Selected Scholarships
-* 2017 **"Overseas Study Funding"**, *Shanghai Ocean University*, China
-* 2016 **"First-Class Academic Scholarship"**, *Shanghai Ocean University*, China
-* 2014 **"National Scholarship"**, *Ministry of Education of the People's Republic of China*, China
-* 2013 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
-* 2012 **"First-Class Academic Scholarship"**, *Suzhou University of Science and Technology*, China
+<table>
+  <tbody>
+    <tr>
+      <td>2017</td>
+      <td><strong>"Overseas Study Funding"</strong></td>
+      <td><em>Shanghai Ocean University</em>, China</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td><strong>"First-Class Academic Scholarship"</strong></td>
+      <td><em>Shanghai Ocean University</em>, China</td>
+    </tr>
+    <tr>
+      <td>2014</td>
+      <td><strong>"National Scholarship"</strong></td>
+      <td><em>Ministry of Education of the People's Republic of China</em>, China</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Teaching Experience
-* 2021-2022 **『Teaching Fellow』** Microbiology Experiments(Undergraduate Course), *Faculty of Fisheries Sciences, Hokkaido University*
-* 2020-2022 **『Teaching Assistant』** Bioinformatics for Marine Life Science (Hokkaido Summer Course), *Graduate School of Fisheries Sciences, Hokkaido University*
-* 2018-2021 **『Teaching Assistant』** Microbiology Experiments(Undergraduate Course), *Faculty of Fisheries Sciences, Hokkaido University*
-  
+<table>
+  <tbody>
+    <tr>
+      <td>2021-2022</td>
+      <td><strong>『Teaching Fellow』</strong></td>
+      <td>Microbiology Experiments (Undergraduate Course)</td>
+      <td><em>Faculty of Fisheries Sciences, Hokkaido University</em></td>
+    </tr>
+    <tr>
+      <td>2020-2022</td>
+      <td><strong>『Teaching Assistant』</strong></td>
+      <td>Bioinformatics for Marine Life Science (Summer Course)</td>
+      <td><em>Graduate School of Fisheries Sciences, Hokkaido University</em></td>
+    </tr>
+    <tr>
+      <td>2018-2021</td>
+      <td><strong>『Teaching Assistant』</strong></td>
+      <td>Microbiology Experiments (Undergraduate Course)</td>
+      <td><em>Faculty of Fisheries Sciences, Hokkaido University</em></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
