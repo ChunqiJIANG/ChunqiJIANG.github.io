@@ -15,7 +15,7 @@ Hi, there!
 Thank you for visiting here. 
 <p align="right"> (Recent update on 2026/08) </p>
 
-**Shortcut: [ISME20 in Auckland](/posts/2026-08-14-blog-post-30-c)**
+**Shortcut: [ISME20 in Auckland](/posts/2026-08-15-blog-post-30-c)**
 
 <!-- hide info
 **Quick guide:**
